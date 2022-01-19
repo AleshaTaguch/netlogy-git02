@@ -1,0 +1,7 @@
+# Netology Git HW1
+
+tmp/*.*
+*_old
+*_backup
+Thumbs.db
+.DS_Store
